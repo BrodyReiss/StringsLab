@@ -1,19 +1,21 @@
 public class FunStrings {
  
- public static String guessTheString(String guess){
+ private static String hiddenWord; 
+ 
+ public String guessTheString(String guess){
  
  
     return ""; 
  }
  
- public static void setHiddenWord(String hiddenWord) {
+ public void setHiddenWord(String hiddenWord) {
  
  
  
  }
  
  
- public static String removeLetter(String phrase, String letter) {
+ public String removeLetter(String phrase, String letter) {
  
     return ""; 
  }
