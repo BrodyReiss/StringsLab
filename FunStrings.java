@@ -1,6 +1,6 @@
 public class FunStrings {
  
- private static String hiddenWord; 
+ private static String secret;  //variable to store the hiddenWord
  
  public String guessTheString(String guess){
  
