@@ -4,7 +4,7 @@ For this lab, you will create methods of a `FunString` class.
 
 1. `GuessTheString(String guess)`  
 
-Consider a guessing game in which a player tries to guess a hidden word. The hidden word contains only capital letters and has a length known to the player. A guess contains only capital letters and has the same length as the hidden word.  
+Consider a guessing game in which a player tries to guess a hidden word. The hidden word contains only capital letters and has a length known to the player. A guess should contain only capital letters and have the same length as the hidden word.  Change the guess to all uppercase just in case.  You can assume that the guess is the same length as the hiddenWord.   
 After a guess is made, the player is given a hint that is based on a comparison between the hidden word and the guess. Each position in the hint contains a character that corresponds to the letter in the same position in the guess. The following rules determine the characters that appear in the hint.  
 
 If the letter in the guess is …   
