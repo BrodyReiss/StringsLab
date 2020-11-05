@@ -1,6 +1,6 @@
 # StringsLab
 
-For this lab, you will create static methods of a `FunString` class.  
+For this lab, you will create methods of a `FunString` class.  
 
 1. `GuessTheString(String guess)`  
 
